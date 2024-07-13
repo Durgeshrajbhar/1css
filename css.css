@@ -1,0 +1,106 @@
+/*#content
+{
+    height:600px;
+    
+    color:rgb(148, 177, 148)
+}
+div
+{
+    height:100px;
+    width:100px;
+}
+#box1
+{
+height:100px;
+width: 100px;
+background-color: aquamarine;
+font-size: 10px;
+}
+#box2
+{
+    height:50px;
+    width:30%;
+    background-color:black;
+    margin-left: 10%;
+    font-size: 2em;
+    height:50vh;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid black;
+    display: inline-block;
+   
+}
+#box1{
+   background-color: brown;
+   height: 100px;
+   width: 100px;
+   background-image: url(cup.jpg);
+   background-size: cover;
+}
+#box2{
+    background-color: blue;
+    height:100px;
+    width:100px;
+    background-image: url(cup.jpg);
+   background-size: cover;
+}
+#box3{
+   background-color:aqua;
+   height: 100px;
+   width:100px;
+   background-image: url(cup.jpg);
+   background-size: cover;
+
+
+}
+#box4{
+    background-color:green;
+    height:100px;
+    width:100px;
+    background-image: url(cup.jpg);
+   background-size: cover;
+}*/
+body{
+    background-image: url(cup.jpg);
+
+    background-size: cover;
+}
+body{
+    text-align:center;
+}
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+}
+#container
+{
+    width: 100px;
+    height:200px;
+
+}
+#box1
+{
+    background-color:aqua;
+}
+#box2
+{
+    background-color: bisque;
+}
+#box3
+{
+    background-color: blueviolet;
+}
+#box4
+{
+    background-color: black;
+
+}
+#box5
+{
+    background-color: green;
+}
